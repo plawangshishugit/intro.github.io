@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #EAECEE;
+    
+}
+
+a{
+    text-decoration: none;
+}
+#navbar{
+    padding: 8px;
+    margin : 0;
+}
+
+#logo{
+    height: 30px;
+}
+
+#banner{
+    size: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#abouthead{
+    text-align: center;
+}
+#about{
+    display: flex;
+    margin: 5%;
+}
+#description{
+    width: 50%;
+}
+#team{
+    width: 50%;
+}
+#team_width{
+    position: center;
+}
+
+h2{
+    text-align: center;
+    margin-left: 10%;
+}
+
+.location{
+    color: grey;
+    margin-bottom: 16px;
+}
+#jobopportunity{
+    padding: 5%;
+}
+.job{
+    align-items: center;
+}
+
+#jobs{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 8px;
+    align-items: center;
+}
+
+
+.apply{
+    float: right;
+    margin-top: 32px;
+    margin-right: 5%;
+}
+
+#footer{
+    background-color: ghostwhite;
+    padding: 8px;
+    margin-top: 32px;
+    text-align: center;
+}
+#footer-links{
+    list-style: none;
+    /* display: flex; */
+}
+
+#footer-links li{
+    display: inline;
+    margin: 0 30px;
+}
+
+.copyright{
+    color: grey;
+}
